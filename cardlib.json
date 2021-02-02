@@ -1,0 +1,13 @@
+[
+{
+"cardId": 1,
+"name": "Card1",
+"type": "minion"
+}
+,
+{
+"cardId": 2,
+"name": "Card2",
+"type": "spell"
+}
+]
